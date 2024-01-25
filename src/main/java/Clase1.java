@@ -2,6 +2,7 @@ import java.sql.*;
 import java.util.Scanner;
 public class Clase1 {
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+
     static final String DB_URL = "jdbc:mysql://localhost/empleados";
     static final String USER = "root";
     static final String PASS = "";
